@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+    padding:0 ;
+    background-color: #222222;
+    font-family: Netflix Sans,
+            Helvetica Neue,
+            Segoe UI,
+            Roboto,
+            Ubuntu,
+            sans-serif;
+
+}
+
+.Net1{ 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(NET.jpg);
+    width: ;
+    height: 80vvh;
+    background-repeat: no-repeat !important;
+    background-size: cover;
+}
+
+.lix{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    gap: 1100px;
+    align-items: center;
+}
+
+.re{
+    color: #e50914;
+    font-size: 50px;
+     margin-top: 30px;
+}
+.sign-in{
+    padding: 7px 17px;
+    margin-right: 50px;
+    background-color: #e50914;
+    float: right;
+    font-size: 1rem;
+    font-weight:400;
+    color: #fff;
+    border-radius:3px ;
+}
+
+.text h1{
+    text-align: center;
+    color:#fff;
+    font-family: Netflix Sans,
+        Helvetica Neue,
+        Segoe UI,
+        Roboto,
+        Ubuntu,
+        sans-serif;
+        font-size: 50px;
+}
+
+.text p{
+    font: 100px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    margin: 10px;
+}
+
+.email{
+    margin-bottom: 20px;
+    display: flex;   
+justify-content: center;}
+
+input{
+   padding: 30px;
+   width:50em;
+   margin-top: 30px;
+   /* margin-right: 50px; */
+   border:none;
+   
+}
+
+.get{
+    background-color: #e50914;
+        color: #fff;
+        padding: 30px;
+        margin-top: 30px;
+        width: 20em;
+        border-style: none;
+        /* margin-left: 20px; */
+}
+
+.enjoy{
+    color:#fff;
+    font-size: 20px;
+    background-color: #000000;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:auto;
+    padding: 15px;
+}
+.enjoy h1{
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+.stranger{
+     display: flex; 
+    justify-content: center;
+    background-color: #000000;
+    margin-top:15px;
+    height: 20em;
+        font-size: 30px;
+}
+.stranger h1{
+    flex-direction: row;
+    color:#fff;
+    align-items: center;
+    padding-top: 100px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.stranger p{
+    color: #fff;
+}
+
+.watch{
+color: #fff;
+ background-color: #000000;
+display: grid;
+flex-direction: row;
+justify-content: center;
+    align-items: center;
+    height: 10em;
+}
+
+.watch h1{
+    font-size: 50px;
+}
+
+.image-kids{
+display: flex;
+background-color: #000000;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.image-kids h1{
+    color:#fff;
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+.image-kids h4{
+    color: #fff;
+        font-size: 30px;
+        font-weight: 90;
+}
+
+.asked{
+    background-color: #000000;
+    display: grid;
+    justify-content: center;
+    align-items: left;
+}
+.asked h1{
+    color: #fff;
+    font-size: 50px;
+        font-weight: 1000;
+
+}
+
+ button{
+    background-color: #222222;
+    padding: 15px;
+    color: #fff;
+    width: 80em;
+    margin-bottom: 1px;
+    font-size: 20px;
+}
+.hr{
+    text-align: left;
+}
+
+.asked h3{
+    color: #fff;
+    text-align: center;
+}
+
+section{
+    display:flex;
+    list-style-type: none;
+    gap:20em;
+    margin-left: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+div li {
+    color: #fff;
+}
